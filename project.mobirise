@@ -1,7 +1,7 @@
 {
   "settings": {
-    "name": "BIBINA",
-    "currentPage": "ubytovanie.html",
+    "name": "BIBI",
+    "currentPage": "home.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 65,
     "versionPublish": "4.7.2",
@@ -49,7 +49,7 @@
   "pages": {
     "ubytovanie.html": {
       "settings": {
-        "title": "BIBINA :: ubytovanie",
+        "title": "ubytovanie",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -1191,10 +1191,10 @@
         }
       ]
     },
-    ".html": {
+    "home.html": {
       "settings": {
         "main": true,
-        "title": "BIBINA :: home",
+        "title": "home",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
