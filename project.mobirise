@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "BIBI",
-    "currentPage": ".html",
+    "currentPage": "home.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 67,
     "versionPublish": "4.7.2",
@@ -49,7 +49,7 @@
   "pages": {
     "ubytovanie.html": {
       "settings": {
-        "title": "ubytovanie",
+        "title": "BIBI privat :: ubytovanie",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -1121,10 +1121,10 @@
         }
       ]
     },
-    ".html": {
+    "home.html": {
       "settings": {
         "main": true,
-        "title": "home",
+        "title": "BIBI privat",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
