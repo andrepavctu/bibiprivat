@@ -1,7 +1,7 @@
 {
   "settings": {
-    "name": "home",
-    "currentPage": "page1.html",
+    "name": "BIBINA",
+    "currentPage": "ubytovanie.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 65,
     "versionPublish": "4.7.2",
@@ -47,7 +47,7 @@
     "robotsSwitcher": ""
   },
   "pages": {
-    "index.html": {
+    "home.html": {
       "settings": {
         "main": true,
         "title": "BIBINA :: home",
@@ -752,7 +752,7 @@
         }
       ]
     },
-    "page1.html": {
+    "ubytovanie.html": {
       "settings": {
         "title": "BIBINA :: ubytovanie",
         "meta_descr": "",
