@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "BIBI privat",
-    "currentPage": "home.html",
+    "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 67,
     "versionPublish": "4.7.2",
@@ -1121,7 +1121,7 @@
         }
       ]
     },
-    "home.html": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "BIBI privat",
